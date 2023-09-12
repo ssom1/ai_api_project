@@ -1,3 +1,7 @@
+# BARD와 CHATGPT 를 활용한 문서요약 API
+
+
+
 ## 1. 개요
 ***
  이번 프로젝트에서는 자연어 처리 API를 활용해서 신문 기사 내용을 요약해서 보여주는 서비스를
@@ -43,6 +47,7 @@ chatgpt를 이용한 문서요약 API의 기능과 설명 글 이다.
 ### 3.2외국어일 경우 한국어로 번역하는 기능추가
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ### 3.3웹페이지 구성할때
-문서 요약 API를 구성하려면 API 선택, API 키 발급, 요청 구성, API 호출, 결과 처리, 에러 처리, 테스트 및 배포, 사용자 인터페이스 개선, 보안, 문서 및 도움말 작성 단계를 따릅니다.
+
+문서 요약 API를 웹페이지에 구성하려면 API 선택, API 키 발급, 웹페이지 디자인, API 호출 및 결과 표시 단계를 따릅니다.
 
 ## 4.실행결과
