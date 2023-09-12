@@ -45,7 +45,7 @@ chatgpt를 이용한 문서요약 API의 기능과 설명 글 이다.
 요약하면, 숨진 초등학교 교사가 악성 민원에 시달리다가 극단적 선택을 한 사건과 관련해, 교사를 괴롭힌 것으로 지목된 학부모들의 신상이 SNS에서 폭로됐습니다. 2차 피해를 우려하는 목소리도 나오는 가운데, 가해자로 지목된 학부모 중 한 명은 자신이 교사를 괴롭힌 적이 없다고 주장하고 있습니다.
 
 ### 3.2외국어일 경우 한국어로 번역하는 기능추가
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ### 3.3웹페이지 구성
 
 
