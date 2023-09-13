@@ -51,3 +51,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 문서 요약 API를 웹페이지에 구성하려면 API 선택, API 키 발급, 웹페이지 디자인, API 호출 및 결과 표시 단계를 따릅니다.
 
 ## 4.실행결과
+from newspaper import Article
+from gensim.summarization import summarize
+
+# 기사 URL을 지정합니다.
+article_url = '기사 URL을 여기에 입력하세요'
+
+# 기사를 읽어옵니다.
+article = Article(article_url)
+article.download()
+article.parse()
+
+# 기사 내용을 가져와서 요약합니다.
+article_text = article.text
+summary = summarize(article_text, ratio=0.2)  # 20%로 요약
+
+# 요약된 내용을 출력합니다.
+print("기사 요약:")
+print(summary)
